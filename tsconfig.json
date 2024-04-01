@@ -10,6 +10,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "ngx-konami-code": [
+        "./dist/ngx-konami-code"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
